@@ -119,7 +119,7 @@ class Order {
 }
 
 // Main class to demonstrate the use of modifiers
-public class ModifiersDemo {
+public class L6 {
     // Static main method, runs without creating an object
     public static void main(String[] args) {
         // Demonstrate Date class

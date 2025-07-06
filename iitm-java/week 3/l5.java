@@ -135,6 +135,6 @@ class SimpleStack extends ArrayDeque {
     public SimpleStack() {
         super();
     }
-
+}
     // Inherits insertFront and deleteFront from ArrayDeque (Stack interface)
     // No need to override, as Array
